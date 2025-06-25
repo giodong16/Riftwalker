@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5771ea2e273927c49b5d32d9c967e882, type: 3}
+  m_Name: RifleAnimationData
+  m_EditorClassIdentifier: 
+  weaponType: 1
+  animations:
+  - state: 0
+    clip: {fileID: 7400000, guid: 7659714e74e98844b8c3b8a0ea032ef1, type: 2}
+  - state: 1
+    clip: {fileID: 7400000, guid: 8e635ea2f255b614d9dac94ef50b74b6, type: 2}
+  - state: 2
+    clip: {fileID: 7400000, guid: 97f264f073ed99e4597c82aa7f4d5591, type: 2}
+  - state: 3
+    clip: {fileID: 7400000, guid: 72a3bad5019fc5b42988d3cb8b967bdb, type: 2}
+  - state: 4
+    clip: {fileID: 7400000, guid: cb696e675a4873e4a8a8563954f07dd7, type: 2}
+  - state: 10
+    clip: {fileID: 7400000, guid: c388fca65a9c5e74788d4edf9dfbbefb, type: 2}
+  - state: 11
+    clip: {fileID: 7400000, guid: 998cf5f2cbd7d6f4bb63b129c113dbc3, type: 2}
+  - state: 5
+    clip: {fileID: 7400000, guid: 74b5831c5f0e72848a7841e9cc2ec4a1, type: 2}
+  - state: 12
+    clip: {fileID: 7400000, guid: d4ecc01f16a011d4cbaca9b1c15a96c9, type: 2}
+  - state: 9
+    clip: {fileID: 7400000, guid: c62dd95a4bc9a0b408ddab587fbc44d6, type: 2}
+  - state: 13
+    clip: {fileID: 7400000, guid: 4ee29482500c0344d92666bfa0f1264b, type: 2}
+  - state: 14
+    clip: {fileID: 7400000, guid: 5bf9e5033dadc134496d0bb1775e49db, type: 2}
+  - state: 15
+    clip: {fileID: 7400000, guid: 646ca7da8bcbf2f41ae39cc61db46228, type: 2}
+  - state: 7
+    clip: {fileID: 7400000, guid: 438f60e75f0abf54ca209cbb2eabdd7d, type: 2}
+  - state: 16
+    clip: {fileID: 7400000, guid: af4e86a26137938479fdcaae20a1aece, type: 2}
+  - state: 17
+    clip: {fileID: 7400000, guid: d14233811cebcbf4a8ca99ae4efda4bc, type: 2}
+  - state: 18
+    clip: {fileID: 7400000, guid: 487ae78d34cebc14aa43e08ca1fa758e, type: 2}
+  - state: 19
+    clip: {fileID: 7400000, guid: d0384659cd7c4554fadaaf265087a279, type: 2}
+  - state: 8
+    clip: {fileID: 7400000, guid: 68da9f1e45130824ca8da90b96bc8ce4, type: 2}

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9efb7295ecc9ee245b4a3d1061d9cbf9, type: 3}
+  m_Name: NormalBulletRifle
+  m_EditorClassIdentifier: 
+  id: 0
+  itemName: Normal Bullet Rifle
+  itemIcon: {fileID: 21300000, guid: c376bb80f76fe814dabd1d13c18860e7, type: 3}
+  quantity: 100
+  price: 40
+  canSell: 1
+  itemType: 0
+  particleName: 0
+  isOnly: 0
+  itemStats:
+    damage: 0
+    criticalRate: 0
+    criticalDamage: 0
+    defense: 0
+    cooldownRate: 0
+    bonusHP: 0
+    bonusSpeed: 0

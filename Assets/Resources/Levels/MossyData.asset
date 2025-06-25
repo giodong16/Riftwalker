@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f507cc4f830f383428b1c667e704ad45, type: 3}
+  m_Name: MossyData
+  m_EditorClassIdentifier: 
+  mapName: Mossy
+  levels:
+  - {fileID: 11400000, guid: a1e831aede12a4f41ad6a96756538ef2, type: 2}
+  - {fileID: 11400000, guid: eda6bf6d5f116de40a6b54b48d2ead3a, type: 2}
+  - {fileID: 11400000, guid: c3685ccfb68fc604a89a7e30df69c4d9, type: 2}
+  - {fileID: 11400000, guid: 4fbc32b7d02dae142b222ab8e59a091d, type: 2}
+  - {fileID: 11400000, guid: b1501972b24e56648bff9dafba01050d, type: 2}

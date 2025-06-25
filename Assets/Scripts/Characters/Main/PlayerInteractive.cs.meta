@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: bb8d10cdb180b494e83014163ff8d967
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - grassSound: {fileID: 8300000, guid: 7c662688310a3a24a94aa44026878d7d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

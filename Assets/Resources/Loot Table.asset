@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cf555560233f8940a4064aa56e6c754, type: 3}
+  m_Name: Loot Table
+  m_EditorClassIdentifier: 
+  lootItems: []
+  prefabs: {fileID: 0}
+  soulPrefab: {fileID: 7578564781535703493, guid: 864832c9655225344af10ec4a6d02320, type: 3}
+  offset: {x: 0, y: 0.5}

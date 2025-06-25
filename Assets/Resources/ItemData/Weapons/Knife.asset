@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9efb7295ecc9ee245b4a3d1061d9cbf9, type: 3}
+  m_Name: Knife
+  m_EditorClassIdentifier: 
+  id: 2
+  itemName: Knife
+  itemIcon: {fileID: 21300000, guid: 05a97e3e88d1b404c966f58af1652248, type: 3}
+  defaultQuantity: 1
+  price: 0
+  canSell: 0
+  itemType: 2
+  particleName: 2
+  isOnly: 1
+  key: 
+  itemStats:
+    damage: 250
+    criticalRate: 0.5
+    criticalDamage: 0.5
+    defense: 0
+    cooldownRate: 0
+    bonusHP: 0
+    bonusSpeed: 0

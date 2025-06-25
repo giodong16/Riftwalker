@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Foreground
+  - DeathZone
+  - Water
+  - Ground
+  - Enemy
+  - DetectionZone
+  - Bound
+  - Platform
+  - Splash
+  - Bucket
+  - ShieldEnemy
+  - Vine
+  - Bridge
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - PostProcess
+  - Border
+  - Enemy
+  - Player
+  - Platform
+  - Bucket
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background_6
+    uniqueID: 3973084043
+    locked: 0
+  - name: Background_5
+    uniqueID: 813076523
+    locked: 0
+  - name: Background_4
+    uniqueID: 2986788247
+    locked: 0
+  - name: Background_3
+    uniqueID: 2287883677
+    locked: 0
+  - name: Background_2
+    uniqueID: 222597531
+    locked: 0
+  - name: Background_1
+    uniqueID: 3076868415
+    locked: 0
+  - name: Background_0
+    uniqueID: 1874736327
+    locked: 0
+  - name: Ground
+    uniqueID: 4118015291
+    locked: 0
+  - name: Player
+    uniqueID: 247018513
+    locked: 0
+  - name: Foreground_0
+    uniqueID: 3416924593
+    locked: 0
+  - name: Foreground_1
+    uniqueID: 1585993845
+    locked: 0
+  - name: Foreground_2
+    uniqueID: 749519753
+    locked: 0
+  - name: Foreground_3
+    uniqueID: 2213488655
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
